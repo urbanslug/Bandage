@@ -51,6 +51,10 @@ The following instructions successfully build Bandage on a fresh installation of
 8. `Bandage` should now be an executable file.
 9. Optionally, copy the program into /usr/local/bin: `sudo make install`. The Bandage build directory can then be deleted.
 
+### Archlinux
+
+With the dynamically linked version, Install [qt5-svg](https://archlinux.org/packages/extra/x86_64/qt5-svg)
+
 ### <img src="http://rrwick.github.io/Bandage/images/OS/linux.png" alt="" width="34" height="40" align="middle"> Other Linux distributions
 
 If your Linux distribution is sufficiently similar to Ubuntu (e.g. Linux Mint), I recommend trying the Ubuntu build instructions above. Otherwise, try the 'Using Qt Creator' instructions below.
